@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "edition": "Xbox Live Arcade (title 584107F1)",
+      "version": "1.0.0",
+      "xex_sha256": "6fc3c9e843d11378ef6d057f15eb50ef1d5f6575da6862e3a6d20e93f2a64038",
+      "game_files": [
+        {
+          "path": "ArcadeInfo.xml",
+          "size": 7906
+        },
+        {
+          "path": "default.xex",
+          "size": 3416064
+        },
+        {
+          "path": "images/CERO_C.png",
+          "size": 2185
+        },
+        {
+          "path": "images/ESRB_E.png",
+          "size": 1453
+        },
+        {
+          "path": "images/KMRB_A.png",
+          "size": 5574
+        },
+        {
+          "path": "images/OFLC_AU_A.png",
+          "size": 710
+        },
+        {
+          "path": "images/PEGI_3P.png",
+          "size": 1696
+        },
+        {
+          "path": "images/PEGI_4P.png",
+          "size": 1618
+        },
+        {
+          "path": "images/USK_A.png",
+          "size": 853
+        },
+        {
+          "path": "info/files.info",
+          "size": 81
+        },
+        {
+          "path": "resources/achievements/Ach_03.png",
+          "size": 11551
+        },
+        {
+          "path": "resources/achievements/Ach_04.png",
+          "size": 10597
+        },
+        {
+          "path": "resources/achievements/Ach_05.png",
+          "size": 11516
+        },
+        {
+          "path": "resources/achievements/Ach_06.png",
+          "size": 9497
+        },
+        {
+          "path": "resources/achievements/Ach_07.png",
+          "size": 9473
+        },
+        {
+          "path": "resources/achievements/Ach_08.png",
+          "size": 9231
+        },
+        {
+          "path": "resources/achievements/Ach_09.png",
+          "size": 9740
+        },
+        {
+          "path": "resources/achievements/Ach_10.png",
+          "size": 10786
+        },
+        {
+          "path": "resources/achievements/Ach_11.png",
+          "size": 9708
+        },
+        {
+          "path": "resources/achievements/Ach_12.png",
+          "size": 10849
+        },
+        {
+          "path": "resources/achievements/ach_01.png",
+          "size": 10277
+        },
+        {
+          "path": "resources/achievements/ach_02.png",
+          "size": 10882
+        },
+        {
+          "path": "resources/resources.xpr",
+          "size": 11984908
+        },
+        {
+          "path": "resources/resources2.xpr",
+          "size": 9134092
+        },
+        {
+          "path": "resources/sounds/Sound Bank.xsb",
+          "size": 2014
+        },
+        {
+          "path": "resources/sounds/Wave Bank.xwb",
+          "size": 6686720
+        },
+        {
+          "path": "resources/sounds/ff_final.xgs",
+          "size": 438
+        },
+        {
+          "path": "splash/Logo_PopCap_and_Oberon.jpg",
+          "size": 141417
+        },
+        {
+          "path": "splash/_Logo_PopCap_and_Oberon.png",
+          "size": 5725
+        },
+        {
+          "path": "splash/gameSplash.jpg",
+          "size": 106190
+        },
+        {
+          "path": "splash/hd_gameSplash.jpg",
+          "size": 292123
+        },
+        {
+          "path": "title_image.png",
+          "size": 7181
+        }
+      ],
+      "nro": "feedingfrenzy.nro",
+      "nro_sha256": "d322c63dfb6ee4fefdf04475225c9e724f56f5692549c97241ff8df3ab605a36",
+      "nro_size": 23239508
+    }
+  ]
+}
